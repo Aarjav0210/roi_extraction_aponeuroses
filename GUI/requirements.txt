@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+opencv-python
+tensorflow-macos
+tensorflow-metal
+matplotlib
+shapely
+scikit-image
+PyWavelets
+ttkbootstrap
